@@ -44,6 +44,7 @@ const allowedGuesses = [
   'serve',
   'heath',
   'dwarf',
+  'cigar',
   'model',
   'karma',
   'stink',
