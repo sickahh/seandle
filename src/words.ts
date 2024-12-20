@@ -26,12 +26,13 @@ export function getWordOfTheDay() {
 
 // copied from Wordle source
 const answers = [
-  'cigar',
+  'ahris',
 ]
 
 const allowedGuesses = [
   'aahed',
   'aalii',
+  'ahris',
   'aargh',
   'rebut',
   'sissy',
