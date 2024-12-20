@@ -26,14 +26,7 @@ export function getWordOfTheDay() {
 
 // copied from Wordle source
 const answers = [
-  'ahris',
-]
-
-const allowedGuesses = [
-  'aahed',
-  'aalii',
-  'ahris',
-  'aargh',
+  'cigar',
   'rebut',
   'sissy',
   'humph',
@@ -45,7 +38,6 @@ const allowedGuesses = [
   'serve',
   'heath',
   'dwarf',
-  'cigar',
   'model',
   'karma',
   'stink',
@@ -2348,7 +2340,13 @@ const allowedGuesses = [
   'rower',
   'artsy',
   'rural',
-  'shave',
+  'shave'
+]
+
+const allowedGuesses = [
+  'aahed',
+  'aalii',
+  'aargh',
   'aarti',
   'abaca',
   'abaci',
